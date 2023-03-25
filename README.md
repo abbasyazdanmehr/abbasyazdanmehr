@@ -33,7 +33,12 @@ I love Mathematics and Programming.
 [![alt](https://skillicons.dev/icons?i=godot)](https://godotengine.org/)
 
 
-## Talk to Me!
+## Github Stats 🤠
+
+![stats](https://github-readme-stats.vercel.app/api?username=abbasyazdanmehr&show_icons=true&theme=radical)
+
+
+## Contact Me!
 
 <a href="mailto:kjkj55047@gmail.com">Gmail</a> - 
 <a href="https://www.linkedin.com/in/abbas-yazdanmehr-a0b6b4246/">LinkedIn</a> - 
