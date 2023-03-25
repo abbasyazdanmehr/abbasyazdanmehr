@@ -35,6 +35,8 @@ I love Mathematics and Programming.
 
 ## Github Stats 🤠
 
+![](https://komarev.com/ghpvc/?username=abbasyazdanmehr)
+
 ![stats](https://github-readme-stats.vercel.app/api?username=abbasyazdanmehr&show_icons=true&theme=radical)
 
 
@@ -43,3 +45,4 @@ I love Mathematics and Programming.
 <a href="mailto:kjkj55047@gmail.com">Gmail</a> - 
 <a href="https://www.linkedin.com/in/abbas-yazdanmehr-a0b6b4246/">LinkedIn</a> - 
 <a href="https://t.me/Abbas_Yazdanmehr">Telegram</a>
+
