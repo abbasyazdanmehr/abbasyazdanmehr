@@ -33,14 +33,17 @@ I love Mathematics and Programming.
 [![alt](https://skillicons.dev/icons?i=godot)](https://godotengine.org/)
 
 
+## My Personal Organization
+
+- <a href="https://github.com/ay-sbu">My University Projects</a>
+- <a href="https://github.com/ay-learning">My Learning Notes</a>
+
+
 ## Github Stats 🤠
 
 ![](https://komarev.com/ghpvc/?username=abbasyazdanmehr)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=abbasyazdanmehr&show_icons=true&theme=radical)
-
-- <a href="https://github.com/ay-sbu">My University Projects</a>
-- <a href="https://github.com/ay-learning">My Learning Notes</a>
 
 
 ## Contact Me!
