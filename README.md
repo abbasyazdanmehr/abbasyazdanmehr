@@ -4,6 +4,12 @@ I am Abbas Yazdanmehr, I am Computer Engineering Student at Shahdid Beheshti Uni
 I love Mathematics and Programming.
 
 
+## My Personal Organizations
+
+- <a href="https://github.com/ay-sbu">My University Projects</a>
+- <a href="https://github.com/ay-learning">My Learning Notes</a>
+
+
 ## Skills
 
 ### Programming Languages and frameworks
@@ -31,12 +37,6 @@ I love Mathematics and Programming.
 [![alt](https://skillicons.dev/icons?i=gitlab)](https://about.gitlab.com/)
 [![alt](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
 [![alt](https://skillicons.dev/icons?i=godot)](https://godotengine.org/)
-
-
-## My Personal Organization
-
-- <a href="https://github.com/ay-sbu">My University Projects</a>
-- <a href="https://github.com/ay-learning">My Learning Notes</a>
 
 
 ## Github Stats 🤠
