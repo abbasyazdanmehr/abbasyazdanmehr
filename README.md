@@ -6,8 +6,8 @@ I love Mathematics and Programming.
 
 ## My Personal Organizations
 
-- <a href="https://github.com/ay-sbu">My University Projects</a>
-- <a href="https://github.com/ay-learning">My Learning Notes</a>
+### <a href="https://github.com/ay-sbu">My University Projects</a>
+### <a href="https://github.com/ay-learning">My Learning Notes</a>
 
 
 ## Skills
