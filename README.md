@@ -48,7 +48,7 @@ I love Mathematics and Programming.
 
 ## Contact Me!
 
-- <a href="mailto:kjkj55047@gmail.com">Gmail</a> - 
-- <a href="https://www.linkedin.com/in/abbas-yazdanmehr-a0b6b4246/">LinkedIn</a> - 
+- <a href="mailto:kjkj55047@gmail.com">Gmail</a>
+- <a href="https://www.linkedin.com/in/abbas-yazdanmehr-a0b6b4246/">LinkedIn</a>
 - <a href="https://t.me/Abbas_Yazdanmehr">Telegram</a>
 
