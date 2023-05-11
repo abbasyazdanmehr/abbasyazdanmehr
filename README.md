@@ -35,8 +35,8 @@ I love Mathematics and Programming.
 [![alt](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![alt](https://skillicons.dev/icons?i=github)](https://github.com/)
 [![alt](https://skillicons.dev/icons?i=gitlab)](https://about.gitlab.com/)
-[![alt](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
 [![alt](https://skillicons.dev/icons?i=godot)](https://godotengine.org/)
+[![alt](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
 
 
 ## Github Stats 🤠
