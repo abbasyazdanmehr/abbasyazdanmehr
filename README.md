@@ -1,7 +1,8 @@
 ## Hi there !!!
 
-I am Abbas Yazdanmehr, I am Computer Engineering Student at Shahdid Beheshti University. 
-I love Mathematics and Programming.
+I am a Computer Engineering Student now, I experienced many software projects and still I love to build more and learn many new things!
+
+*Programming for fun, Mathematics for beauty and Philosophy for need!*
 
 
 ## My Personal Organizations
