@@ -4,6 +4,8 @@ I am a Computer Engineering Student now, I experienced many software projects an
 
 *Programming for fun, Mathematics for beauty and Philosophy for need!*
 
+> I am currently a cute programmer!
+
 
 ## My Personal Organizations
 
@@ -15,6 +17,7 @@ I am a Computer Engineering Student now, I experienced many software projects an
 
 ### Programming Languages and frameworks
 
+[![alt](https://skillicons.dev/icons?i=qt)](https://www.qt.io/)
 [![alt](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![alt](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/)
 [![alt](https://skillicons.dev/icons?i=cpp)](https://www.cprogramming.com/)
