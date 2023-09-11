@@ -4,8 +4,6 @@ I am a Computer Engineering Student now, I experienced many software projects an
 
 *Programming for fun, Mathematics for beauty and Philosophy for need!*
 
-> I am currently a cute programmer!
-
 
 ## My Personal Organizations
 
