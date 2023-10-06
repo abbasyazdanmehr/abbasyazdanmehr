@@ -7,9 +7,9 @@ I am a Computer Engineering Student now, I experienced many software projects an
 
 ## My Personal Organizations
 
-### <a href="https://github.com/ay-sbu">My University Projects</a>
-### <a href="https://github.com/ay-learning">My Learning Notes</a>
-
+### <a href="https://github.com/ay-sbu">My University Projects & Notes</a>
+### <a href="https://github.com/ay-course-notes">My Course Notes</a>
+### <a href="https://github.com/ay-algorithms">My Implimentation of Algorithms</a>
 
 ## Skills
 
