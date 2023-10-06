@@ -2,7 +2,7 @@
 
 I am a Computer Engineering Student now, I experienced many software projects and still I love to build more and learn many new things!
 
-*Programming for fun, Mathematics for beauty and Philosophy for need!*
+***Talk is cheap. Show me the code.*** - Linus Torvalds 
 
 
 ## My Personal Organizations
