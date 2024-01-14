@@ -1,9 +1,4 @@
-## Hi there !!!
-
-I am a Computer Engineering Student now, I experienced many software projects and still I love to build more and learn many new things!
-
-***Talk is cheap. Show me the code.*** - Linus Torvalds 
-
+# Hi I am Abbas Yazdanmehr!
 
 ## My Personal Organizations
 
