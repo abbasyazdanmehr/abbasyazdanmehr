@@ -1,8 +1,6 @@
 # Hi I am Abbas Yazdanmehr!
 
-## My Personal Organizations
-
-### <a href="https://github.com/ay-sbu">My University Projects & Notes</a>
+## <a href="https://github.com/ay-sbu">My University Projects & Notes</a>
 
 ## Skills
 
