@@ -7,6 +7,7 @@
 
 [![alt](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![alt](https://skillicons.dev/icons?i=cpp)](https://en.cppreference.com/w/)
+[![alt](https://skillicons.dev/icons?i=dart)](https://dart.dev/)
 [![alt](https://skillicons.dev/icons?i=javascript)](https://www.javascript.com/)
 [![alt](https://skillicons.dev/icons?i=qt)](https://www.qt.io/)
 [![alt](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
